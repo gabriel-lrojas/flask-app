@@ -12,6 +12,8 @@ def hello():
       <h2 style="color:blue;">Contribution Trang – Module DevOps !</h2>
       <h3>gianni</h3>
       <h2 style="color:red;">Module 158 </h2>
+      <h3>Thomas</h3>
+      <h3>Men are brave !</h3>
     """
 
 
